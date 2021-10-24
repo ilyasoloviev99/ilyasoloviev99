@@ -1,16 +1,13 @@
-### Hi there 👋
+# Привет, это Илья 👋🏻😉
 
-<!--
-**ilyasoloviev99/ilyasoloviev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик, и сегодня меня интересуют следующие два направления: серверная разработка на ```Java``` и мобильная разработка на ```Kotlin```.
 
-Here are some ideas to get you started:
+Мои существующие проекты размещены в этом профиле.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Образование
+👨🏻‍🎓 ```Бакалавриат``` МТУСИ, Информационные системы и технологии (2017 - 2021)
+👨🏻‍🎓 ```Магистратура``` МИРЭА, Информатика и вычислительная техника (2021 - 2023)
+
+## Как можно со мной связаться
+- [Telegram](t.me/iliyasolov99)
+- [Электронная почта](iliyasolov99@gmail.com)
