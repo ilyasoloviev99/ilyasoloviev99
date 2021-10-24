@@ -11,4 +11,4 @@
 
 ## Как можно со мной связаться
 - [Telegram](t.me/iliyasolov99)
-- [Электронная почта](iliyasolov99@gmail.com)
+- iliyasolov99@gmail.com
